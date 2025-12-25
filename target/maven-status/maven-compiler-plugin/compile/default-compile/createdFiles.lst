@@ -1,0 +1,6 @@
+ec\edu\espoch\queuepriority\vista\QueueCanvas.class
+module-info.class
+ec\edu\espoch\queuepriority\modelo\QueuePriority.class
+ec\edu\espoch\queuepriority\modelo\Node.class
+ec\edu\espoch\queuepriority\App.class
+ec\edu\espoch\queuepriority\controller\QueuePController.class
